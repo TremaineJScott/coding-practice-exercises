@@ -24,7 +24,7 @@ This project is open-source and available under the MIT License.
 
 ## Getting Started
 
-To get started, clone this repository and navigate to the language or technology of your choice. Each directory contains a `README.md` with specific details about the exercises and projects within.
+To get started, clone this repository and navigate to the language or technology of your choice. 
 
 ```sh
 git clone https://github.com/YourUsername/coding-practice-exercises.git
