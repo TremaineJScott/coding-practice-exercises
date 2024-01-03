@@ -10,7 +10,7 @@ Welcome to the Coding Practice Exercises repository. This platform is aimed at p
 - `Projects`: Real-world project requirements and scenarios for hands-on practice.
 
 # Contribution Guidelines
-We welcome contributions from everyone. Please see CONTRIBUTING.md for more details on how to submit pull requests, report issues, or suggest improvements.
+We welcome contributions from everyone. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more details on how to submit pull requests, report issues, or suggest improvements.
 
 # Feedback and Support
 Join the conversation and contribute to the community. Use the Discussions tab for questions, comments, or suggestions. If you encounter any problems or have an exercise request, please open an issue in the Issues tab.
